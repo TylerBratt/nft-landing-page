@@ -4,4 +4,6 @@
 
 #### hosted through fleek.co
 
-visit [tylerbratt.crypto](tylerbratt.crypto), click on the expo icon to launch the accompanying mobile
+to visit [tylerbratt.crypto](tylerbratt.crypto), 
+install the unstoppable browser extension in chrome or firefox
+click on the expo icon to launch and scan the QR code to view the accompanying mobile
