@@ -2,7 +2,7 @@
 
 ### React and Tailwindcss
 
-#### hosted through fleek.co
+#### hosted through fleek.co and unstoppable domains
 
 to visit [tylerbratt.crypto](tylerbratt.crypto), 
 install the unstoppable browser extension in chrome or firefox
